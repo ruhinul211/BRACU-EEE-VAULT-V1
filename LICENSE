@@ -1,21 +1,52 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 ruhinul211
+Copyright (c) 2026 Ruhinul Haque Bhuiyan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Original content in this repository — including organization, structure,
+summaries, notes, and write-ups created by the repository owner — is
+licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to:
+  - Share   — copy and redistribute the material in any medium or format
+  - Adapt   — remix, transform, and build upon the material
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Under the following terms:
+  - Attribution     — You must give appropriate credit to the original
+                       author, provide a link to this license, and
+                       indicate if changes were made.
+  - NonCommercial    — You may not use the material for commercial
+                       purposes.
+  - ShareAlike       — If you remix, transform, or build upon the
+                       material, you must distribute your contributions
+                       under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing anything
+the license permits.
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Full legal text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+-----------------------------------------------------------------------
+NOTICE — Third-Party Course Materials
+-----------------------------------------------------------------------
+
+This repository also contains lecture slides, past papers, textbook
+excerpts, and other course materials originally created by BRAC
+University faculty, textbook publishers, or other third parties.
+
+These materials are NOT covered by the CC BY-NC-SA 4.0 license above.
+They remain the property of their original copyright holders and are
+included here solely for personal, non-commercial educational reference
+among students. No claim of ownership is made over this third-party
+content, and no rights are granted to it beyond what its original
+copyright holder allows.
+
+If you are a rights holder and would like specific content removed or
+attributed differently, please open an issue on this repository or
+contact the repository owner directly.
