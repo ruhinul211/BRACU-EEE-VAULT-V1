@@ -17,13 +17,13 @@ This started as a personal habit of keeping my notes and resources organized, an
 
 ## 📑 Table of Contents
 
-- [What's in Here](#-whats-in-here)
-- [Repository Structure](#-repository-structure)
+- [What's in Here](#️-whats-in-here)
+- [Repository Structure](#️-repository-structure)
 - [Quick Index](#-quick-index)
 - [Who This Is For](#-who-this-is-for)
 - [Courses Covered So Far](#-courses-covered-so-far)
 - [Contributing](#-contributing)
-- [License & Ownership](#-license--ownership)
+- [License & Ownership](#️-license--ownership)
 - [About](#-about)
 
 ---
