@@ -107,6 +107,8 @@ More courses are added as materials are organized — check [`QUICK-INDEX.md`](Q
 
 This repo is currently maintained solely by me. If you spot an error, a broken link, or want to suggest something, feel free to open an issue — direct contributions aren't open yet, but that may change down the line.
 
+Prefer email? Reach me at **ruhinul0025@gmail.com** — open to messages about corrections, material requests, or anything else related to this repo.
+
 ## ⚖️ License & Ownership
 
 Original content in this repository — organization, notes, summaries, and write-ups I created myself — is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. See [LICENSE](LICENSE) for details.
