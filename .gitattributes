@@ -1,0 +1,4 @@
+# Course material, not source code — keep it out of GitHub's language stats.
+*.html linguist-documentation
+*.pdf linguist-documentation
+*.PDF linguist-documentation

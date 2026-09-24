@@ -50,19 +50,41 @@ Courses sit directly at the repo root. Each course is fully self-contained, and 
 BRACU-EEE-Vault/
 ├── README.md
 ├── LICENSE
-├── QUICK-INDEX.md         → table of all courses with quick links
-├── TEMPLATES/             → reusable file/folder templates
-├── RESOURCES/             → shared across all courses (curriculum PDF, general study tips)
+├── QUICK-INDEX.md            → table of all courses with quick links
 ├── EEE101/
 │   ├── README.md
-│   ├── (internal structure defined per-course)
-│   └── EEE101 LAB/        → lab component, nested inside the parent course
+│   ├── COURSE OUTLINE/
+│   ├── FACULTY LECTURE NOTES/   → per-lecture subfolders (LEC 1 MATERIALS, LEC 2 MATERIALS, ...)
+│   ├── CLASSNOTES/
+│   ├── EEE101L/                 → lab component, nested inside the parent course
+│   ├── ASSIGNMENTS/
+│   ├── SAMPLE QUESTIONS/
+│   ├── RECOMMENDED BOOKS/
+│   └── IMPORTANT YOUTUBE VIDEO LINKS/
 ├── EEE103/
 │   ├── README.md
-│   └── EEE103 LAB/
+│   ├── LECTURE SLIDES/
+│   ├── MEGA FILE/
+│   ├── ASSIGNMENTS/
+│   ├── PRACTICE FILES/
+│   ├── EEE103L/                 → includes a nested PROJECT/ folder
+│   └── IMPORTANT RESOURCES/
 ├── MAT120/
+│   ├── README.md
+│   ├── COURSE OUTLINE/
+│   ├── HAND NOTES/
+│   ├── RHR HANDNOTES/
+│   ├── BOOKS/
+│   ├── PRACTICE PROBLEMS/
+│   ├── IMPORTANT RESOURCES/
+│   └── EXTRA RESOURCE/           → faculty-initial subfolders (MZK, APKS, SKY, ...)
 ├── STA201/
-└── ...                    (more courses added over time)
+│   ├── README.md
+│   ├── LECTURE NOTES/            → MID/ and FINALS/
+│   ├── BOOKS/
+│   ├── PRACTICE SHEETS/
+│   └── OTHER RESOURCES/
+└── ...                        (more courses added over time)
 ```
 
 > Each course's exact internal folder layout is defined and maintained on a course-by-course basis — see that course's own README for specifics.
