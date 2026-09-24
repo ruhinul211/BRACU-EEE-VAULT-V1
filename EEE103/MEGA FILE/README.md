@@ -2,11 +2,11 @@ ASSALAMU ALAIKUM,
 
 I HOPE YOU ARE DOING REALLY WELL.
 
-This is the instruction manual for MEGA FILE ,PLEASE DO FOLLOW THIS GUIDELINE IN ORDER TO MAXIMIZE THE RESOURCES:
+**This is the instruction manual for MEGA FILE**, please follow this guideline in order to maximize the resources:
 
 1. GO THROUGH THIS FILE BEFORE THE FINAL EXAMS.
 
 
-I SINCERELY HOPE AND PRAY FOR YOUR SUCCESS IN THIS COURSE. DONT LOOSE HPOPE! WORK HARD AND YOU WILL GET YOUR RETURN InShaAllah.
+*I sincerely hope and pray for your success in this course. Do not lose hope! Work hard and you will get your return, InShaAllah.*
 
-GOODLUCK!
+**GOOD LUCK!**
